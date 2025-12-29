@@ -1,0 +1,17 @@
+# Supply Chain Analytics - Python Dependencies
+# ==============================================
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+
+# Database
+psycopg2-binary==2.9.9
+
+# Configuration
+python-dotenv==1.0.0
+
+# Optional: Development Tools
+# pylint==3.0.3
+# black==23.12.1
+# pytest==7.4.4
