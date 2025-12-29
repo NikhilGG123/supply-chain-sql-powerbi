@@ -1,6 +1,7 @@
 # Large data files
 *.csv
 *.db
+*.db-journal
 *.sqlite
 *.sqlite3
 
