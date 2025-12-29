@@ -51,22 +51,22 @@ Multi-year supply chain transaction log: **180K orders** | **20K customers** | *
 4-page executive view with drill-down:
 
 ### Executive Scorecard
-![Executive Dashboard](screenshots/page1_executive)
+![Executive Dashboard](screenshots/page1_executive.JPG)
 
 Monthly KPIs: revenue, margin, on-time %, order volume
 
 ### Delivery Operations
-![Delivery Performance](screenshots/page2_delivery)
+![Delivery Performance](screenshots/page2_delivery.JPG)
 
 Late delivery heatmap by region/mode, delay severity analysis
 
 ### Product Performance
-![Product Sales](screenshots/page3_sales)
+![Product Sales](screenshots/page3_sales.JPG)
 
 Profitability tiers, margin by category, underperforming SKU alerts
 
 ### Customer Intelligence
-![Customer Analysis](screenshots/page4_customer)
+![Customer Analysis](screenshots/page4_customer.JPG)
 
 Segment analysis, lifetime value, geographic distribution
 
@@ -98,4 +98,4 @@ psql -U postgres -d supply_chain_analytics -f sql/03_create_views.sql
 
 ---
 
-**Nikhil Vanama** | [GitHub](https://github.com/nikhilvanama) | vanamanikhil0@gmail.com
+**Nikhil Vanama** | [GitHub](https://github.com/NikhilGG123) | vanamanikhil0@gmail.com
